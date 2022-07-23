@@ -17,7 +17,7 @@ StorageDoubleMap // 双键映射
 
 运行截图：
 
-run:[image](https://github.com/weartist/solution/blob/main/solution_05/static/run.png)
+run:![image](https://github.com/weartist/solution/blob/main/solution_05/static/run.png)
 
 create:![image](https://github.com/weartist/solution/blob/main/solution_05/static/create.png)
 
