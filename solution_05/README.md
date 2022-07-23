@@ -15,4 +15,12 @@ StorageDoubleMap // 双键映射
 ### 实现存证模块的功能，包括：创建存证；撤销存证。
 
 
+运行截图：
 
+run:[image](https://github.com/weartist/solution/blob/main/solution_05/static/run.png)
+
+create:![image](https://github.com/weartist/solution/blob/main/solution_05/static/create.png)
+
+created:![image](https://github.com/weartist/solution/blob/main/solution_05/static/created.png)
+
+revoke:![image](https://github.com/weartist/solution/blob/main/solution_05/static/revoke.png)
